@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"payment",
+				"payment-errors"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"form",
+				"form-row"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"acc",
+				"account_login"
+			],
+			[
+				"ACCOUNT",
+				"ACCOUNT_EMAIL_CONFIRMATION_ANONYMOUS_REDIRECT_URL"
+			],
+			[
+				"AC",
+				"ACCOUNT_EMAIL_CONFIRMATION_ANONYMOUS_REDIRECT_URL"
+			],
+			[
+				"con",
+				"confirm_message"
+			],
+			[
+				"em",
+				"emailTo"
+			],
+			[
+				"EM",
+				"EMAIL_HOST"
+			],
+			[
+				"Em",
+				"EMAIL_HOST"
+			],
+			[
+				"e",
+				"EMAIL_HOST"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"por",
+				"profileAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/tryTen/settings.py",
+			"settings":
+			{
+				"buffer_size": 5202,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "Package Control: c",
+		"selected_items":
+		[
+			[
+				"Package Control: c",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aiwass/Desktop/tryTen/src",
+		"/Users/aiwass/Desktop/tryTen/src/checkout",
+		"/Users/aiwass/Desktop/tryTen/src/checkout/templates",
+		"/Users/aiwass/Desktop/tryTen/src/tryTen"
+	],
+	"file_history":
+	[
+		"/Users/aiwass/Desktop/tryTen/src/checkout/templates/checkout.html",
+		"/Users/aiwass/Desktop/tryTen/src/checkout/views.py",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/views.py",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/base.html",
+		"/Users/aiwass/Desktop/tryTen/src/tryTen/urls.py",
+		"/Users/aiwass/Desktop/tryTen/src/tryTen/settings.py",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/home.html",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/about.html",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/profile.html",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/navbar.html",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/account/logout.html",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/account/login.html",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/account/signup.html",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/templates/accounts/signup.html",
+		"/Users/aiwass/Desktop/tryTen/src/contact/templates/contact.html",
+		"/Users/aiwass/Desktop/tryTen/src/contact/views.py",
+		"/Users/aiwass/Desktop/tryTen/src/contact/forms.py",
+		"/Users/aiwass/Desktop/tryTen/static/static/css/main.css",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/admin.py",
+		"/Users/aiwass/Desktop/tryTen/src/profiles/models.py",
+		"/Users/aiwass/Documents/eCommerce/saleor/manage.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/tryTen/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5134,
+								5134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tryTen.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
